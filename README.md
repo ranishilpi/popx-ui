@@ -45,4 +45,4 @@ npm run build
 
 This project is deployed using **Vercel / Netlify**.
 
-Live Demo: (Add your deployed link here)
+Live Demo: https://pop-ui.netlify.app
